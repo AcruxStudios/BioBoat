@@ -5,30 +5,31 @@ Proyecto de Biologia 1BE 2023
 =========================================================================
 # Equipo
 
-Alejo		Preguntas, Programacion, Arte
-Fidel		Preguntas, Ideas
-Camila		Preguntas, Bocetos
-Neighbour	Preguntas, Supervicion de Preguntas
-Bianchi		Preguntas, Ideas
+Alejo&nbsp;&nbsp;Preguntas, Programacion, Arte<br>
+Fidel&nbsp;&nbsp;Preguntas, Ideas<br>
+Camila&nbsp;&nbsp;Preguntas, Bocetos<br>
+Neighbour&nbsp;&nbsp;Preguntas, Supervicion de Preguntas<br>
+Bianchi&nbsp;&nbsp;Preguntas, Ideas<br>
 
 ==========================================================================
 
 # Tecnologias:
 
-Scratch 3 (ETiques Mod) by ScratchTeam (scratch.mit.edu)
-			by SheepTester (sheeptester.github.io/scratch-gui)
-TurboWarp Packager	by TurboWarp (https://github.com/TurboWarp/packager)
-Electron JS		by Cheng Zhao (github) 
+Scratch 3 (ETiques Mod) by ScratchTeam (scratch.mit.edu)<br>
+&nbsp;&nbsp;&nbsp;by SheepTester (sheeptester.github.io/scratch-gui)<br>
+TurboWarp Packager&nbsp;by TurboWarp (https://github.com/TurboWarp/packager)<br>
+Electron JS&nbsp;&nbsp;by Cheng Zhao (github)<br>
 
 ==========================================================================
 # Creditos Externos:
-SFX			Free SFX No Copyright (youtube.com)
-			Easter Egg Horror Ambiance (DDLC)
+
+SFX&nbsp;&nbsp;&nbsp;Free SFX No Copyright (youtube.com)<br>
+&nbsp;&nbsp;&nbsp;Easter Egg Horror Ambiance (DDLC)<br>
 
 
 ==========================================================================
 # Informacion de Compilacion:
 
-Version: 1.3.0 (V28J223)
-Fecha: 28/7/23	16:35
-Plataforma: Windows x32 & x64 - Linux x64 - HTML
+Version: 1.3.0 (V28J223)<br>
+Fecha: 28/7/23	16:35<br>
+Plataforma: Windows x32 & x64 - Linux x64 - HTML<br>
